@@ -6,7 +6,7 @@
 
 ## Team Members
 - Member 1: Soobin Lee (Role)
-- Member 2: Jungyeon Ha (Role)
+- Member 2: Jeongyeon Ha (Role)
 
 ## Purpose
 Our primary goal with this project is to enhance the quality of life by leveraging users' daily data.
@@ -26,4 +26,4 @@ Our primary goal with this project is to enhance the quality of life by leveragi
 
 ## Contact
 - Soobin Lee (soobinlee647@gmail.com)
-- Jungyeon Ha ()
+- Jungyeon Ha (hjy990911@gmail.com)
