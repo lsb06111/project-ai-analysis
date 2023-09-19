@@ -25,5 +25,5 @@ Our primary goal with this project is to enhance the quality of life by leveragi
 
 
 ## Contact
-Soobin Lee (soobinlee647@gmail.com)
-Jungyeon Ha ()
+- Soobin Lee (soobinlee647@gmail.com)
+- Jungyeon Ha ()
